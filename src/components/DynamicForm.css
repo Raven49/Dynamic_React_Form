@@ -1,0 +1,48 @@
+/* Style for JSON container */
+.json-pretty-container .json-pretty {
+  margin-top: 0px;
+  padding: 0px;
+  border-radius: 5px;
+  background-color: #f0f5ff ;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.__json-pretty__ {
+  line-height: 1.3;
+  color: #f8f8f2;
+  background: light grey;
+  overflow: auto;
+}
+
+.dynamic-form-container {
+  margin: 0px;
+  padding: 0px;
+  border: 1px solid #ccc;
+  border-radius: 1px;
+  background: linear-gradient(to bottom, pink, rgb(108, 225, 246), rgb(243, 153, 243));
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+
+
+  /* DynamicForm.css or your custom CSS file */
+.dotted-border {
+    border: 1px dotted #ccc; /* Set the desired dotted border style */
+    border-radius: 4px; /* Add some border radius for a rounded appearance */
+    padding: 4px 8px; /* Add padding for spacing */
+  }
+
+  .field-container {
+    margin-bottom: 10px;
+  }
+  .remove-button {
+    color: #ff4d4f;
+    border-color: #ff4d4f;
+  }
+
+  
+
+
+
+  
+  
